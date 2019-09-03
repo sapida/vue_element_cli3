@@ -14,8 +14,9 @@ npm install babel-plugin-component -D
 npm install @babel/preset-env -D
 
 
-*修改 babel.config.js 为
+* 修改 babel.config.js 为
 
+>
 module.exports = {
   "presets": [
     '@vue/app'
