@@ -1,4 +1,9 @@
 @charset "UTF-8";
+/**
+ * @desc pc端常用reset.css
+ * @author aerfa
+ * @date 2018-07-26
+ */
 html,body,div,p,ul,li,dl,dt,dd,em,i,span,a,img,input,h1,h2,h3,h4,h5,nav,section,footer,header,table,tr,th,td,ul,li{margin:0;padding:0;box-sizing: border-box;}
 h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
 i,em,b{font-style:normal}

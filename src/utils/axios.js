@@ -7,7 +7,6 @@ var instance = axios.create({
     },
     timeout: 30000,
     baseURL: '',   //接口请求地址
-    withCredentials: true  //允许携带cookie
 })
 
 // 添加请求拦截器
